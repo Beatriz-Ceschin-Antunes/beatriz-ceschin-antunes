@@ -1,8 +1,8 @@
 <img src="https://github.com/Beatriz-Ceschin-Antunes/beatriz-ceschin-antunes/blob/main/GitHub%20header.png" alt="banner that says Beatriz Antunes - aspiring software engineer">
 
 
-<h1 align="left">Hi 👋, I'm Beatriz Antunes</h1>
-<h3 align="left">A passionate Software Engineering student from Orlando, FL</h3>
+<h1 align="left">Hi 👋</h1>
+<h3 align="left">A passionate Software Engineering student from Florida, USA</h3>
 
 - 🌱 I’m currently learning **JavaScript, HTML, CSS**
 
