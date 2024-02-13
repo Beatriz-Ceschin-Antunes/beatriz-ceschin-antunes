@@ -1,3 +1,6 @@
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://github.com/Beatriz-Ceschin-Antunes/beatriz-ceschin-antunes/blob/main/Header%20Image.png))](https://beatriz-ceschin-antunes.io)
+
+
 <h1 align="center">Hi 👋, I'm Beatriz Antunes</h1>
 <h3 align="center">A passionate Software Engineering student from Orlando, FL</h3>
 
