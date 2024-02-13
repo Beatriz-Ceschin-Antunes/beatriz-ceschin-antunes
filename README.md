@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://github.com/Beatriz-Ceschin-Antunes/beatriz-ceschin-antunes/blob/main/Header%20Image.png))]
+<img src="https://github.com/Beatriz-Ceschin-Antunes/beatriz-ceschin-antunes/blob/main/Header%20Image.png" alt="banner that says Beatriz Antunes - aspiring software engineer">
 
 
 <h1 align="center">Hi 👋, I'm Beatriz Antunes</h1>
