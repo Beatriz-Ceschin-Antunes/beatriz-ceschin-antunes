@@ -2,7 +2,7 @@
 
 
 <h1 align="left">Hi 👋</h1>
-<h3 align="left">A passionate Software Engineering student from Florida, USA</h3>
+<h4 align="left">A passionate Software Engineering student from Florida, USA</h4>
 
 - 🌱 I’m currently learning **JavaScript, HTML, CSS**
 
