@@ -1,4 +1,4 @@
-<img src="https://github.com/Beatriz-Ceschin-Antunes/beatriz-ceschin-antunes/blob/main/GitHub%20header.png" alt="banner that says Beatriz Antunes - aspiring software engineer">
+<img src="https://github.com/Beatriz-Ceschin-Antunes/beatriz-ceschin-antunes/blob/main/header.png" alt="banner that says Beatriz Antunes - aspiring software engineer">
 
 
 <h1 align="left">Hi 👋</h1>
