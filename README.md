@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **ceschinantunes.beatriz@gmail.com**
 
-- ⚡ Fun fact **I am always 15 minutes early for everything.**
+- ⚡ Fun fact **I studied Architecture for three years before falling for Software Engineering.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
