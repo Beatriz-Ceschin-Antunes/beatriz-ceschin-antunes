@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **ceschinantunes.beatriz@gmail.com**
 
-- ⚡ Fun fact **I studied architecture for three years in college before discovering my passion for software engineering.**
+- ⚡ Fun fact **I had learned how to code in Python and C before I knew I wanted to pursue software engineering.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
