@@ -4,11 +4,11 @@
 <h1 align="left">Hi 👋</h1>
 <h4 align="left">I'm a passionate Software Engineering student from Florida, USA</h4>
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS**
+- 🌱 I’m currently learning **JavaScript, HTML, CSS**.
 
-- 📫 How to reach me **ceschinantunes.beatriz@gmail.com**
+- 📫 How to reach me? **ceschinantunes.beatriz@gmail.com**
 
-- ⚡ Fun fact **Problem-solving is the highlight of all my work experiences.**
+- ⚡ Fun fact: **Problem-solving is the highlight of all my work experiences**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
