@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **ceschinantunes.beatriz@gmail.com**
 
-- ⚡ Fun fact **I had learned how to code in Python and C before I knew I wanted to pursue software engineering.**
+- ⚡ Fun fact **Problem-solving is the highlight of all my work experiences.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
