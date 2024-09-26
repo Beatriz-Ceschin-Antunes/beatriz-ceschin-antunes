@@ -4,7 +4,7 @@
 <h1 align="left">Hi 👋</h1>
 <h4 align="left">I'm a passionate Software Engineering student from Florida, USA</h4>
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS** during my free time.
+- 🌱 I’m currently learning **JavaScript, HTML, CSS** during my free time, and **Java** in school.
 
 - 📫 How to reach me? **ceschinantunes.beatriz@gmail.com**
 
