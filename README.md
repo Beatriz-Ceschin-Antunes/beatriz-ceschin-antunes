@@ -2,13 +2,13 @@
 
 
 <h1 align="left">Hi 👋</h1>
-<h4 align="left">I'm a Software Engineering student from Florida, USA</h4>
+<h4 align="left">I'm a Software Engineering student originally from Florida and currently living in Fort Drum, NY</h4>
 
-- 🌱 I’m currently learning **JavaScript, HTML,** and **CSS** during my free time, and **Java** in school.
+- 🌱 I’m currently learning **C#**.
 
 - 📫 How to reach me? **ceschinantunes.beatriz@gmail.com**
 
-- ⚡ Fun fact: **Problem-solving has been the highlight of all my work experiences**.
+- ⚡ Fun fact: **My path into software development began with a fascination for solving problems and creating new things that ignited when I was just a kid.**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
