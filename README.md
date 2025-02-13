@@ -8,7 +8,7 @@
 
 - 📫 How to reach me? **ceschinantunes.beatriz@gmail.com**
 
-- ⚡ Fun fact: **My path into software development began with a fascination for solving problems and creating new things that ignited when I was just a kid.**.
+- ⚡ Fun fact: **My path into software development began with a fascination for solving problems and creating new things**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
