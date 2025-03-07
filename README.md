@@ -2,8 +2,7 @@
 
 
 <h1 align="left">Hi 👋</h1>
-<h4 align="left">I'm a Software Engineering student originally from Brazil and currently living in Fort Drum, NY.</h4>
-<h4 align="left">Proud military wife and avid problem solver.</h4>
+<h4 align="left">I'm a Software Engineering student originally from Brazil and currently living in Fort Drum, NY. I am a proud military wife and avid problem solver.</h4>
 
 - 🌱 I’m currently learning **C#**.
 
