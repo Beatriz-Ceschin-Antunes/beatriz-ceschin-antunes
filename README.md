@@ -1,6 +1,3 @@
-<img src="https://github.com/Beatriz-Ceschin-Antunes/beatriz-ceschin-antunes/blob/main/header.png" alt="banner that says Beatriz Antunes - aspiring software engineer">
-
-
 <h1 align="left">Hi 👋</h1>
 <h4 align="left">I'm a Software Engineering student currently living in Fort Drum, NY. I am a proud military wife and avid problem solver.</h4>
 
