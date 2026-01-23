@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋</h1>
 <h4 align="left">I'm a Software Engineering student currently living in Vilseck, Germany. I am a proud military wife and avid problem solver.</h4>
 
-- 🌱 I’m currently learning **C#**.
-
 - 📫 How to reach me? **ceschinantunes.beatriz@gmail.com**
 
 - ⚡ Fun fact: **My path into software development began with a fascination for solving problems and creating new things**.
