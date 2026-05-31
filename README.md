@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋</h1>
-<h4 align="left">I'm a Software Engineering student currently living in Vilseck, Germany. I am a proud military wife and avid problem solver.</h4>
+<h4 align="left">I'm a Software Engineer currently living in Vilseck, Germany. I am a proud military wife and avid problem solver.</h4>
 
 - 📫 How to reach me? **ceschinantunes.beatriz@gmail.com**
 
